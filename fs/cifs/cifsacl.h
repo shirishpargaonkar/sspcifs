@@ -113,5 +113,6 @@ struct cifs_ace {
 #define MIN_SEC_DESC_LEN  (sizeof(struct cifs_ntsd) + (2 * MIN_SID_LEN))
 
 /* Test comment */
+/* Test comment 2 */
 
 #endif /* _CIFSACL_H */
